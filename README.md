@@ -1,5 +1,7 @@
-# MenteBinaria
-Após o excelente treinamento em Eng.Rev., vou colocar nesse repositório tudo que usar para praticar.
+# [MenteBinaria](http://www.mentebinaria.com.br/index.php/reversing-from-scratch/)
+
+Após o excelente treinamento em Eng.Rev. ministrado pelo Fernando Merces, vou colocar nesse repositório tudo que usar para praticar.
+
 
 * reg.cpp
 
